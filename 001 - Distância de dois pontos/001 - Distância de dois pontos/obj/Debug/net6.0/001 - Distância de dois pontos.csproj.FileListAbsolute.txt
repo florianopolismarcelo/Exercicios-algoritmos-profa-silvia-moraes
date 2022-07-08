@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\bin\Debug\net6.0\001 - Distância de dois pontos.exe
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\bin\Debug\net6.0\001 - Distância de dois pontos.deps.json
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\bin\Debug\net6.0\001 - Distância de dois pontos.runtimeconfig.json
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\bin\Debug\net6.0\001 - Distância de dois pontos.dll
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\bin\Debug\net6.0\001 - Distância de dois pontos.pdb
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\obj\Debug\net6.0\001 - Distância de dois pontos.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\obj\Debug\net6.0\001 - Distância de dois pontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\obj\Debug\net6.0\001 - Distância de dois pontos.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\obj\Debug\net6.0\001 - Distância de dois pontos.AssemblyInfo.cs
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\obj\Debug\net6.0\001 - Distância de dois pontos.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\obj\Debug\net6.0\001 - Distância de dois pontos.dll
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\obj\Debug\net6.0\refint\001 - Distância de dois pontos.dll
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\obj\Debug\net6.0\001 - Distância de dois pontos.pdb
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\obj\Debug\net6.0\001 - Distância de dois pontos.genruntimeconfig.cache
+C:\Users\flori\source\repos\lista01ExerciciosDeLogica\001 - Distância de dois pontos\001 - Distância de dois pontos\obj\Debug\net6.0\ref\001 - Distância de dois pontos.dll
