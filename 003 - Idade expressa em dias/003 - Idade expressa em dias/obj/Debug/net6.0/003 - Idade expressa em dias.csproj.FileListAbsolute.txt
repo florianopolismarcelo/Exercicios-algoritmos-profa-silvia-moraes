@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\bin\Debug\net6.0\003 - Idade expressa em dias.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\bin\Debug\net6.0\003 - Idade expressa em dias.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\bin\Debug\net6.0\003 - Idade expressa em dias.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\bin\Debug\net6.0\003 - Idade expressa em dias.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\bin\Debug\net6.0\003 - Idade expressa em dias.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\obj\Debug\net6.0\003 - Idade expressa em dias.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\obj\Debug\net6.0\003 - Idade expressa em dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\obj\Debug\net6.0\003 - Idade expressa em dias.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\obj\Debug\net6.0\003 - Idade expressa em dias.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\obj\Debug\net6.0\003 - Idade expressa em dias.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\obj\Debug\net6.0\003 - Idade expressa em dias.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\obj\Debug\net6.0\refint\003 - Idade expressa em dias.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\obj\Debug\net6.0\003 - Idade expressa em dias.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\obj\Debug\net6.0\003 - Idade expressa em dias.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\003 - Idade expressa em dias\003 - Idade expressa em dias\obj\Debug\net6.0\ref\003 - Idade expressa em dias.dll
