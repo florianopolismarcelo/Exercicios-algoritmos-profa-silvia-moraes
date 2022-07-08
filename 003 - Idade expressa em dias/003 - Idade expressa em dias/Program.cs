@@ -1,34 +1,27 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 /* 03.Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.*/
-int dia, mes, anoNascimento, anoAtual, idade =0, quatidadeDias;
 
-Console.WriteLine("Informe seu ano de nascimento");
-anoNascimento = int.Parse(Console.ReadLine());
+
+int idade, meses, dias;
+
+Console.WriteLine("Quantos anos você tem?");
+idade = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Informe o mes que você nasceu");
+meses = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Informe o dia que você nasceu");
-dia = int.Parse(Console.ReadLine());
+dias = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Informe o mês que você nasceu");
-mes = int.Parse(Console.ReadLine());
+meses = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Informe o ano atual");
-anoAtual = int.Parse(Console.ReadLine());
-
-
-idade = anoAtual - anoNascimento;
-
-quatidadeDias = (365 * idade) - 365; 
-mes = (30 * mes) - 30;
-quatidadeDias = quatidadeDias + mes + dia;
-
-Console.WriteLine("Quantidade de dias de vida " +quatidadeDias);
+dias = (365 * idade);
 
 
+//Idade = (dias+(anos*365)+(meses*30));
 
-
-
-//  16060 + 180 + 17
-
+Console.WriteLine("Quantidade de dias de vida ");
 
 
