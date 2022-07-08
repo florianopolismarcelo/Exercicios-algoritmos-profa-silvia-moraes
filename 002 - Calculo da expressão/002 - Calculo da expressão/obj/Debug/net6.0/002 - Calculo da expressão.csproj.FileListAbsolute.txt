@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\bin\Debug\net6.0\002 - Calculo da expressão.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\bin\Debug\net6.0\002 - Calculo da expressão.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\bin\Debug\net6.0\002 - Calculo da expressão.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\bin\Debug\net6.0\002 - Calculo da expressão.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\bin\Debug\net6.0\002 - Calculo da expressão.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\obj\Debug\net6.0\002 - Calculo da expressão.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\obj\Debug\net6.0\002 - Calculo da expressão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\obj\Debug\net6.0\002 - Calculo da expressão.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\obj\Debug\net6.0\002 - Calculo da expressão.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\obj\Debug\net6.0\002 - Calculo da expressão.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\obj\Debug\net6.0\002 - Calculo da expressão.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\obj\Debug\net6.0\refint\002 - Calculo da expressão.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\obj\Debug\net6.0\002 - Calculo da expressão.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\obj\Debug\net6.0\002 - Calculo da expressão.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\002 - Calculo da expressão\002 - Calculo da expressão\obj\Debug\net6.0\ref\002 - Calculo da expressão.dll
