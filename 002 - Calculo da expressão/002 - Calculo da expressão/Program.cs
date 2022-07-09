@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
-/*2.Escreva um algoritmo que leia três números inteiros e positivos (A, B, C) e calcule a seguinte expressão:
- D = R + S/2 onde R = (A + B) ^2  e  S (B + C) ^2 */
+/****************************************************************************************
+* 02) Escreva um algoritmo que leia três números inteiros e positivos (A, B, C) e calcule 
+* a seguinte expressão:  D = R + S/2 onde R = (A + B) ^2  e  S (B + C) ^2 
+****************************************************************************************/
 
 int numero01, numero02, numero03;
 float D, R, S;
