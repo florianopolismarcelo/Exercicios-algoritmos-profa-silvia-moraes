@@ -1,6 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-/* 03.Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.*/
+/************************************************************************************
+* 03) Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias 
+* e mostre-a expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
+************************************************************************************/
+
 
 
 int idade, meses, dia, quantidadeDias;
