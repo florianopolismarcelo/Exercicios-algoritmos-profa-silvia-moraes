@@ -18,7 +18,7 @@ nota2 = float.Parse(Console.ReadLine());
 Console.WriteLine("Digite a terceira nota do aluno");
 nota3 = float.Parse(Console.ReadLine());
 
-mediaPonderada = ((2 * nota1) + (3 * nota2) + (5 * nota3))/10;
+mediaPonderada = ((2 * nota1) + (3 * nota2) + (5 * nota3))/10; // Media ponderada peso 2, 3 e 5 e dividido por 10 pois 2 + 3 + 5 = 10.
 
 Console.WriteLine("A media poderada do aluno é: " +mediaPonderada);
 
