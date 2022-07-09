@@ -17,9 +17,7 @@ meses = int.Parse(Console.ReadLine());
 quantidadeDias = (365 * idade);
 meses = (meses * 30);
 quantidadeDias = quantidadeDias + meses + dia;
- 
+
 //quantidadeDias = (dia+(idade*365)+(meses*30));
 
-Console.WriteLine("Quantidade de dias de vida "+ quantidadeDias);
-
-
+Console.WriteLine("Quantidade de dias de vida " + quantidadeDias);
