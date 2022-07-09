@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 /***************************************************************************************
 * 06) Faça um algoritmo que leia o tempo de duração de um evento em uma fábrica expressa 
 * em segundos e mostre-o expresso em horas, minutos e segundos.

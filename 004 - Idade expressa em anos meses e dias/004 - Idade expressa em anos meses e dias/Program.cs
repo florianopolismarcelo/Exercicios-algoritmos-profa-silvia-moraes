@@ -5,7 +5,6 @@
 * expressa em anos, meses e dias. Considerar ano com 365 dias e mês com 30 dias.
 **********************************************************************************/
 
-
 int diasVida, idade, meses, dias = 0; 
 
 Console.WriteLine("Quantos dias de vida você tem?");

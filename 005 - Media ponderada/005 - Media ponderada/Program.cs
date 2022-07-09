@@ -1,13 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
 /*******************************************************************************************
 * 05) Faça um algoritmo que leia as 3 notas de um aluno e calcule a média final deste aluno. 
 * Considerar que a média é ponderada e que o peso das notas é: 2,3 e 5, respectivamente.
 *******************************************************************************************/
 
 float nota1, nota2, nota3, mediaPonderada;
-
 
 Console.WriteLine("Digite a primeira nota do aluno");
 nota1 = float.Parse(Console.ReadLine());

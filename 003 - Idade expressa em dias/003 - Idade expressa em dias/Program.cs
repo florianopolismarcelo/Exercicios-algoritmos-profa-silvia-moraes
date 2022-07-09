@@ -5,8 +5,6 @@
 * e mostre-a expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
 ************************************************************************************/
 
-
-
 int idade, meses, dia, quantidadeDias;
 
 Console.WriteLine("Quantos anos você tem?");

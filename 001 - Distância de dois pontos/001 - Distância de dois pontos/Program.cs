@@ -6,7 +6,6 @@
 * tal d = √ (X2 - X1)^2 + (Y2 - Y1)^2
 *************************************************************************************/
 
-
 float distancia, valorX1 = 0, valorX2 = 0 , valorY1 = 0, valorY2 = 0;
 
 Console.WriteLine("Informe o valor de X1");
