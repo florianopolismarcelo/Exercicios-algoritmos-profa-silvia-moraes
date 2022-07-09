@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flori\\source\\repos\\lista01ExerciciosDeLogica\\001 - Distância de dois pontos\\001 - Distância de dois pontos\\001 - Distância de dois pontos.csproj": {}
+    "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\001 - Distância de dois pontos\\001 - Distância de dois pontos\\001 - Distância de dois pontos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flori\\source\\repos\\lista01ExerciciosDeLogica\\001 - Distância de dois pontos\\001 - Distância de dois pontos\\001 - Distância de dois pontos.csproj": {
+    "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\001 - Distância de dois pontos\\001 - Distância de dois pontos\\001 - Distância de dois pontos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flori\\source\\repos\\lista01ExerciciosDeLogica\\001 - Distância de dois pontos\\001 - Distância de dois pontos\\001 - Distância de dois pontos.csproj",
+        "projectUniqueName": "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\001 - Distância de dois pontos\\001 - Distância de dois pontos\\001 - Distância de dois pontos.csproj",
         "projectName": "001 - Distância de dois pontos",
-        "projectPath": "C:\\Users\\flori\\source\\repos\\lista01ExerciciosDeLogica\\001 - Distância de dois pontos\\001 - Distância de dois pontos\\001 - Distância de dois pontos.csproj",
+        "projectPath": "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\001 - Distância de dois pontos\\001 - Distância de dois pontos\\001 - Distância de dois pontos.csproj",
         "packagesPath": "C:\\Users\\flori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flori\\source\\repos\\lista01ExerciciosDeLogica\\001 - Distância de dois pontos\\001 - Distância de dois pontos\\obj\\",
+        "outputPath": "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\001 - Distância de dois pontos\\001 - Distância de dois pontos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flori\\AppData\\Roaming\\NuGet\\NuGet.Config",
