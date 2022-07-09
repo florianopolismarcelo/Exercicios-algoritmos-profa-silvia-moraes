@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\bin\Debug\net6.0\008 - Equações lineares.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\bin\Debug\net6.0\008 - Equações lineares.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\bin\Debug\net6.0\008 - Equações lineares.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\bin\Debug\net6.0\008 - Equações lineares.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\bin\Debug\net6.0\008 - Equações lineares.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\obj\Debug\net6.0\008 - Equações lineares.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\obj\Debug\net6.0\008 - Equações lineares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\obj\Debug\net6.0\008 - Equações lineares.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\obj\Debug\net6.0\008 - Equações lineares.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\obj\Debug\net6.0\008 - Equações lineares.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\obj\Debug\net6.0\008 - Equações lineares.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\obj\Debug\net6.0\refint\008 - Equações lineares.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\obj\Debug\net6.0\008 - Equações lineares.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\obj\Debug\net6.0\008 - Equações lineares.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\008 - Equações lineares\008 - Equações lineares\obj\Debug\net6.0\ref\008 - Equações lineares.dll
