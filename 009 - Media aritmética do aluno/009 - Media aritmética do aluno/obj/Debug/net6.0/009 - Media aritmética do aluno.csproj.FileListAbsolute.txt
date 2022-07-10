@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\bin\Debug\net6.0\009 - Media aritmética do aluno.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\bin\Debug\net6.0\009 - Media aritmética do aluno.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\bin\Debug\net6.0\009 - Media aritmética do aluno.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\bin\Debug\net6.0\009 - Media aritmética do aluno.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\bin\Debug\net6.0\009 - Media aritmética do aluno.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\obj\Debug\net6.0\009 - Media aritmética do aluno.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\obj\Debug\net6.0\009 - Media aritmética do aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\obj\Debug\net6.0\009 - Media aritmética do aluno.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\obj\Debug\net6.0\009 - Media aritmética do aluno.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\obj\Debug\net6.0\009 - Media aritmética do aluno.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\obj\Debug\net6.0\009 - Media aritmética do aluno.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\obj\Debug\net6.0\refint\009 - Media aritmética do aluno.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\obj\Debug\net6.0\009 - Media aritmética do aluno.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\obj\Debug\net6.0\009 - Media aritmética do aluno.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\009 - Media aritmética do aluno\009 - Media aritmética do aluno\obj\Debug\net6.0\ref\009 - Media aritmética do aluno.dll
