@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\bin\Debug\net6.0\010 - Maior valor.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\bin\Debug\net6.0\010 - Maior valor.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\bin\Debug\net6.0\010 - Maior valor.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\bin\Debug\net6.0\010 - Maior valor.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\bin\Debug\net6.0\010 - Maior valor.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\obj\Debug\net6.0\010 - Maior valor.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\obj\Debug\net6.0\010 - Maior valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\obj\Debug\net6.0\010 - Maior valor.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\obj\Debug\net6.0\010 - Maior valor.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\obj\Debug\net6.0\010 - Maior valor.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\obj\Debug\net6.0\010 - Maior valor.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\obj\Debug\net6.0\refint\010 - Maior valor.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\obj\Debug\net6.0\010 - Maior valor.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\obj\Debug\net6.0\010 - Maior valor.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\010 - Maior valor\010 - Maior valor\obj\Debug\net6.0\ref\010 - Maior valor.dll
