@@ -5,7 +5,7 @@
 "São múltiplos" ou "Não são múltiplos".
 *********************************************************************************************/
 
-float numero1, numero2, maiorValor;
+float numero1, numero2;
 
 Console.WriteLine("Informe o primeiro numero:");
 numero1 = float.Parse(Console.ReadLine());
