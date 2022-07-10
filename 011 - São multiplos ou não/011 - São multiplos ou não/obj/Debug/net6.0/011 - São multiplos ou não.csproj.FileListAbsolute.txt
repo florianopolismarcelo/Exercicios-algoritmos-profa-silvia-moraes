@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\bin\Debug\net6.0\011 - São multiplos ou não.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\bin\Debug\net6.0\011 - São multiplos ou não.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\bin\Debug\net6.0\011 - São multiplos ou não.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\bin\Debug\net6.0\011 - São multiplos ou não.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\bin\Debug\net6.0\011 - São multiplos ou não.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\obj\Debug\net6.0\011 - São multiplos ou não.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\obj\Debug\net6.0\011 - São multiplos ou não.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\obj\Debug\net6.0\011 - São multiplos ou não.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\obj\Debug\net6.0\011 - São multiplos ou não.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\obj\Debug\net6.0\011 - São multiplos ou não.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\obj\Debug\net6.0\011 - São multiplos ou não.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\obj\Debug\net6.0\refint\011 - São multiplos ou não.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\obj\Debug\net6.0\011 - São multiplos ou não.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\obj\Debug\net6.0\011 - São multiplos ou não.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\011 - São multiplos ou não\011 - São multiplos ou não\obj\Debug\net6.0\ref\011 - São multiplos ou não.dll
