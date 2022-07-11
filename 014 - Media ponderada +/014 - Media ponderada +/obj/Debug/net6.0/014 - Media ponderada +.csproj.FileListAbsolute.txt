@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\bin\Debug\net6.0\014 - Media ponderada +.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\bin\Debug\net6.0\014 - Media ponderada +.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\bin\Debug\net6.0\014 - Media ponderada +.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\bin\Debug\net6.0\014 - Media ponderada +.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\bin\Debug\net6.0\014 - Media ponderada +.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\obj\Debug\net6.0\014 - Media ponderada +.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\obj\Debug\net6.0\014 - Media ponderada +.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\obj\Debug\net6.0\014 - Media ponderada +.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\obj\Debug\net6.0\014 - Media ponderada +.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\obj\Debug\net6.0\014 - Media ponderada +.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\obj\Debug\net6.0\014 - Media ponderada +.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\obj\Debug\net6.0\refint\014 - Media ponderada +.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\obj\Debug\net6.0\014 - Media ponderada +.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\obj\Debug\net6.0\014 - Media ponderada +.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\014 - Media ponderada +\014 - Media ponderada +\obj\Debug\net6.0\ref\014 - Media ponderada +.dll

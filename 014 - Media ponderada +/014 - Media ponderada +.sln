@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014 - Media ponderada +", "014 - Media ponderada +\014 - Media ponderada +.csproj", "{E06A8C56-4AC2-4C0C-88C1-922330AD6FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06A8C56-4AC2-4C0C-88C1-922330AD6FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06A8C56-4AC2-4C0C-88C1-922330AD6FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06A8C56-4AC2-4C0C-88C1-922330AD6FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06A8C56-4AC2-4C0C-88C1-922330AD6FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A600954-E224-439B-9699-CB46A152F6E0}
+	EndGlobalSection
+EndGlobal
