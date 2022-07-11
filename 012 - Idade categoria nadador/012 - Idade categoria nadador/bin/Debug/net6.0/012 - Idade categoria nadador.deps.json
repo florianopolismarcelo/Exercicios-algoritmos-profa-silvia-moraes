@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "012 - Idade categoria nadador/1.0.0": {
+        "runtime": {
+          "012 - Idade categoria nadador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "012 - Idade categoria nadador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

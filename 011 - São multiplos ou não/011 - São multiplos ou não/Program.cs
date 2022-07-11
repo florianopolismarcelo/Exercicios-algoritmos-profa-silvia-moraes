@@ -7,10 +7,10 @@
 
 float numero1, numero2;
 
-Console.WriteLine("Informe o primeiro numero:");
+Console.WriteLine("Informe o primeiro número:");
 numero1 = float.Parse(Console.ReadLine());
 
-Console.WriteLine("Informe o segundo numero:");
+Console.WriteLine("Informe o segundo número:");
 numero2 = float.Parse(Console.ReadLine());
 
 if (numero1 % numero2 == 0)

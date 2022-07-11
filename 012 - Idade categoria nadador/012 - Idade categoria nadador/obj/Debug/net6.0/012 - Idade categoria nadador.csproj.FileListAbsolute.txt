@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\bin\Debug\net6.0\012 - Idade categoria nadador.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\bin\Debug\net6.0\012 - Idade categoria nadador.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\bin\Debug\net6.0\012 - Idade categoria nadador.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\bin\Debug\net6.0\012 - Idade categoria nadador.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\bin\Debug\net6.0\012 - Idade categoria nadador.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\obj\Debug\net6.0\012 - Idade categoria nadador.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\obj\Debug\net6.0\012 - Idade categoria nadador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\obj\Debug\net6.0\012 - Idade categoria nadador.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\obj\Debug\net6.0\012 - Idade categoria nadador.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\obj\Debug\net6.0\012 - Idade categoria nadador.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\obj\Debug\net6.0\012 - Idade categoria nadador.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\obj\Debug\net6.0\refint\012 - Idade categoria nadador.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\obj\Debug\net6.0\012 - Idade categoria nadador.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\obj\Debug\net6.0\012 - Idade categoria nadador.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\012 - Idade categoria nadador\012 - Idade categoria nadador\obj\Debug\net6.0\ref\012 - Idade categoria nadador.dll
