@@ -6,25 +6,25 @@
 
 int numero1, numero2, numero3;
 
-Console.WriteLine("Informe o primeiro numero:");
+Console.WriteLine("Informe o primeiro número inteiro:");
 numero1 = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Informe o segundo numero:");
+Console.WriteLine("Informe o segundo número inteiro:");
 numero2 = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Informe o terceiro numero:");
+Console.WriteLine("Informe o terceiro número inteiro:");
 numero3 = int.Parse(Console.ReadLine());
 
 if (numero1 > numero2 && numero1 > numero3)
 {
-    Console.WriteLine("O primeiro número: " + numero1 + " tem o maior valor");
+    Console.WriteLine(numero1 + " é o primeiro número inteiro digitado e tem o maior valor.");
 }
 else if (numero2 > numero1 && numero2 > numero3)
 {
-    Console.WriteLine("O segundo número: " + numero2 + " tem o maior valor");
+    Console.WriteLine(numero2 + " é o segundo número inteiro digitado e tem o maior valor.");
 }
 else
 {
-    Console.WriteLine("O terceiro número: " + numero3 + " tem o maior valor");
+    Console.WriteLine(numero3 + " é o terceiro número inteiro digitado e tem o maior valor.");
 }
 
