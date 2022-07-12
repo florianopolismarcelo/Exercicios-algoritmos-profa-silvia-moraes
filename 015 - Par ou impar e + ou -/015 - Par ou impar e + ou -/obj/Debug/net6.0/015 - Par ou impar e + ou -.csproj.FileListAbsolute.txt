@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\obj\Debug\net6.0\015 - Par ou impar e + ou -.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\obj\Debug\net6.0\015 - Par ou impar e + ou -.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\obj\Debug\net6.0\015 - Par ou impar e + ou -.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\obj\Debug\net6.0\015 - Par ou impar e + ou -.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\obj\Debug\net6.0\015 - Par ou impar e + ou -.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\bin\Debug\net6.0\015 - Par ou impar e + ou -.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\bin\Debug\net6.0\015 - Par ou impar e + ou -.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\bin\Debug\net6.0\015 - Par ou impar e + ou -.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\bin\Debug\net6.0\015 - Par ou impar e + ou -.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\bin\Debug\net6.0\015 - Par ou impar e + ou -.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\obj\Debug\net6.0\015 - Par ou impar e + ou -.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\obj\Debug\net6.0\refint\015 - Par ou impar e + ou -.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\obj\Debug\net6.0\015 - Par ou impar e + ou -.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\obj\Debug\net6.0\015 - Par ou impar e + ou -.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\015 - Par ou impar e + ou -\015 - Par ou impar e + ou -\obj\Debug\net6.0\ref\015 - Par ou impar e + ou -.dll
