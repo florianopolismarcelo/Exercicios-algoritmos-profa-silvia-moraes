@@ -52,7 +52,6 @@ switch (codigo)
     case 100:
 
         valor = quantidade * 1.20;
-
         Console.WriteLine("+--------------------------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
         Console.WriteLine("+--------------------------------------------+");
@@ -61,7 +60,6 @@ switch (codigo)
     case 101:
 
         valor = quantidade * 1.30;
-
         Console.WriteLine("+--------------------------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
         Console.WriteLine("+--------------------------------------------+");
@@ -70,7 +68,6 @@ switch (codigo)
     case 102:
 
         valor = quantidade * 1.50;
-
         Console.WriteLine("+--------------------------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
         Console.WriteLine("+--------------------------------------------+");
@@ -79,7 +76,6 @@ switch (codigo)
     case 103:
 
         valor = quantidade * 1.20;
-
         Console.WriteLine("+--------------------------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
         Console.WriteLine("+--------------------------------------------+");
@@ -88,7 +84,6 @@ switch (codigo)
     case 104:
 
         valor = quantidade * 1.30;
-
         Console.WriteLine("+--------------------------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
         Console.WriteLine("+--------------------------------------------+");
@@ -97,7 +92,6 @@ switch (codigo)
     case 105:
 
         valor = quantidade * 1.00;
-
         Console.WriteLine("+--------------------------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
         Console.WriteLine("+--------------------------------------------+");
