@@ -42,9 +42,9 @@ Console.WriteLine("    Digite o código do produto  ");
 Console.WriteLine("    ++++++++++++++++++++++++++  ");
 
 codigo = int.Parse(Console.ReadLine());
-Console.WriteLine("    ++++++++++++++++++++++++++  ");
-Console.WriteLine("    Quantos itens você deseja   ");
-Console.WriteLine("    ++++++++++++++++++++++++++  ");
+Console.WriteLine("    ++++++++++++++++++++++++++++++++++++  ");
+Console.WriteLine("    Digite a quantidade que você deseja   ");
+Console.WriteLine("    ++++++++++++++++++++++++++++++++++++  ");
 quantidade = double.Parse(Console.ReadLine());
 
 switch (codigo)
@@ -52,49 +52,49 @@ switch (codigo)
     case 100:
 
         valor = quantidade * 1.20;
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         break;
 
     case 101:
 
         valor = quantidade * 1.30;
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         break;
 
     case 102:
 
         valor = quantidade * 1.50;
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         break;
 
     case 103:
 
         valor = quantidade * 1.20;
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         break;
 
     case 104:
 
         valor = quantidade * 1.30;
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         break;
 
     case 105:
 
         valor = quantidade * 1.00;
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         Console.WriteLine("O valor a ser pago é: " + valor.ToString("0.00"));
-        Console.WriteLine("+--------------------------------------------+");
+        Console.WriteLine("+---------------------------+");
         break;
 }
 
