@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\bin\Debug\net6.0\017 - Peso ideal.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\bin\Debug\net6.0\017 - Peso ideal.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\bin\Debug\net6.0\017 - Peso ideal.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\bin\Debug\net6.0\017 - Peso ideal.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\bin\Debug\net6.0\017 - Peso ideal.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\obj\Debug\net6.0\017 - Peso ideal.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\obj\Debug\net6.0\017 - Peso ideal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\obj\Debug\net6.0\017 - Peso ideal.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\obj\Debug\net6.0\017 - Peso ideal.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\obj\Debug\net6.0\017 - Peso ideal.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\obj\Debug\net6.0\017 - Peso ideal.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\obj\Debug\net6.0\refint\017 - Peso ideal.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\obj\Debug\net6.0\017 - Peso ideal.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\obj\Debug\net6.0\017 - Peso ideal.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\017 - Peso ideal\017 - Peso ideal\obj\Debug\net6.0\ref\017 - Peso ideal.dll
