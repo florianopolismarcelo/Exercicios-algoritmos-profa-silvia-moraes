@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\bin\Debug\net6.0\016 - Cardápio de uma lancheria.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\bin\Debug\net6.0\016 - Cardápio de uma lancheria.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\bin\Debug\net6.0\016 - Cardápio de uma lancheria.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\bin\Debug\net6.0\016 - Cardápio de uma lancheria.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\bin\Debug\net6.0\016 - Cardápio de uma lancheria.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\obj\Debug\net6.0\016 - Cardápio de uma lancheria.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\obj\Debug\net6.0\016 - Cardápio de uma lancheria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\obj\Debug\net6.0\016 - Cardápio de uma lancheria.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\obj\Debug\net6.0\016 - Cardápio de uma lancheria.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\obj\Debug\net6.0\016 - Cardápio de uma lancheria.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\obj\Debug\net6.0\016 - Cardápio de uma lancheria.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\obj\Debug\net6.0\refint\016 - Cardápio de uma lancheria.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\obj\Debug\net6.0\016 - Cardápio de uma lancheria.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\obj\Debug\net6.0\016 - Cardápio de uma lancheria.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\016 - Cardápio de uma lancheria\016 - Cardápio de uma lancheria\obj\Debug\net6.0\ref\016 - Cardápio de uma lancheria.dll
