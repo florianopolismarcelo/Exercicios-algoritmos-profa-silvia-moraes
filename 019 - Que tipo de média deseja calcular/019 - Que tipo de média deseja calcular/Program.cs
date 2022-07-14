@@ -65,7 +65,3 @@ switch (codigo)
         Console.WriteLine("+----------------------------------+");
         break;
 }
-
-
-
-
