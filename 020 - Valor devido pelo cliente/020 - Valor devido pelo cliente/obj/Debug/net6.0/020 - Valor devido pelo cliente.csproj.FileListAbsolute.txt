@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\bin\Debug\net6.0\020 - Valor devido pelo cliente.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\bin\Debug\net6.0\020 - Valor devido pelo cliente.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\bin\Debug\net6.0\020 - Valor devido pelo cliente.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\bin\Debug\net6.0\020 - Valor devido pelo cliente.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\bin\Debug\net6.0\020 - Valor devido pelo cliente.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\obj\Debug\net6.0\020 - Valor devido pelo cliente.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\obj\Debug\net6.0\020 - Valor devido pelo cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\obj\Debug\net6.0\020 - Valor devido pelo cliente.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\obj\Debug\net6.0\020 - Valor devido pelo cliente.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\obj\Debug\net6.0\020 - Valor devido pelo cliente.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\obj\Debug\net6.0\020 - Valor devido pelo cliente.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\obj\Debug\net6.0\refint\020 - Valor devido pelo cliente.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\obj\Debug\net6.0\020 - Valor devido pelo cliente.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\obj\Debug\net6.0\020 - Valor devido pelo cliente.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\020 - Valor devido pelo cliente\020 - Valor devido pelo cliente\obj\Debug\net6.0\ref\020 - Valor devido pelo cliente.dll
