@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\bin\Debug\net6.0\021 - Mensagem código invalido.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\bin\Debug\net6.0\021 - Mensagem código invalido.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\bin\Debug\net6.0\021 - Mensagem código invalido.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\bin\Debug\net6.0\021 - Mensagem código invalido.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\bin\Debug\net6.0\021 - Mensagem código invalido.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\obj\Debug\net6.0\021 - Mensagem código invalido.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\obj\Debug\net6.0\021 - Mensagem código invalido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\obj\Debug\net6.0\021 - Mensagem código invalido.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\obj\Debug\net6.0\021 - Mensagem código invalido.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\obj\Debug\net6.0\021 - Mensagem código invalido.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\obj\Debug\net6.0\021 - Mensagem código invalido.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\obj\Debug\net6.0\refint\021 - Mensagem código invalido.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\obj\Debug\net6.0\021 - Mensagem código invalido.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\obj\Debug\net6.0\021 - Mensagem código invalido.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\021 - Mensagem código invalido\021 - Mensagem código invalido\obj\Debug\net6.0\ref\021 - Mensagem código invalido.dll

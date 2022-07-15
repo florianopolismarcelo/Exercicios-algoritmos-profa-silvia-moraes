@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "021 - Mensagem código invalido/1.0.0": {
+        "runtime": {
+          "021 - Mensagem código invalido.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "021 - Mensagem código invalido/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
