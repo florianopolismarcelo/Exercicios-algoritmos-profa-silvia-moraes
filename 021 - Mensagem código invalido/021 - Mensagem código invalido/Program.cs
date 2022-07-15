@@ -5,7 +5,7 @@
 deve receber o código de um produto e a quantidade comprada e calcular o preço total, usando a tabela 
 abaixo. Mostre uma mensagem no caso de código inválido.
 
-Código             	Preço unitário
+Código       	Preço unitário
 'ABCD'	              R$ 5,30
 'XYPK'	              R$ 6,00
 'KLMP'	              R$ 3,20
