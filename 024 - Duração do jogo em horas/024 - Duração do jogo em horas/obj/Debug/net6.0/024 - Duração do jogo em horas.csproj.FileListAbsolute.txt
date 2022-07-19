@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\bin\Debug\net6.0\024 - Duração do jogo em horas.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\bin\Debug\net6.0\024 - Duração do jogo em horas.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\bin\Debug\net6.0\024 - Duração do jogo em horas.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\bin\Debug\net6.0\024 - Duração do jogo em horas.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\bin\Debug\net6.0\024 - Duração do jogo em horas.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\obj\Debug\net6.0\024 - Duração do jogo em horas.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\obj\Debug\net6.0\024 - Duração do jogo em horas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\obj\Debug\net6.0\024 - Duração do jogo em horas.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\obj\Debug\net6.0\024 - Duração do jogo em horas.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\obj\Debug\net6.0\024 - Duração do jogo em horas.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\obj\Debug\net6.0\024 - Duração do jogo em horas.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\obj\Debug\net6.0\refint\024 - Duração do jogo em horas.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\obj\Debug\net6.0\024 - Duração do jogo em horas.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\obj\Debug\net6.0\024 - Duração do jogo em horas.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\024 - Duração do jogo em horas\024 - Duração do jogo em horas\obj\Debug\net6.0\ref\024 - Duração do jogo em horas.dll
