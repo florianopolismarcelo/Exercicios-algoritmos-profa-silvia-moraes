@@ -11,19 +11,19 @@ c) Se i=3 escrever os três valores a, b, c de forma que o maior entre a, b, c f
 
 float a, b, c;
 
-Console.WriteLine("+-------------------------------------------------+");
-Console.WriteLine("Digite valor de [a] qualquer valor de número real: ");
-Console.WriteLine("+-------------------------------------------------+");
+Console.WriteLine("+---------------------------------------------------+");
+Console.WriteLine("Digite o valor de [a] qualquer valor de número real: ");
+Console.WriteLine("+---------------------------------------------------+");
 a = float.Parse(Console.ReadLine());
 
-Console.WriteLine("+-------------------------------------------------+");
-Console.WriteLine("Digite valor de [a] qualquer valor de número real: ");
-Console.WriteLine("+-------------------------------------------------+");
+Console.WriteLine("+---------------------------------------------------+");
+Console.WriteLine("Digite o valor de [a] qualquer valor de número real: ");
+Console.WriteLine("+---------------------------------------------------+");
 a = float.Parse(Console.ReadLine());
 
-Console.WriteLine("+-------------------------------------------------+");
-Console.WriteLine("Digite valor de [a] qualquer valor de número real: ");
-Console.WriteLine("+-------------------------------------------------+");
+Console.WriteLine("+---------------------------------------------------+");
+Console.WriteLine("Digite o valor de [a] qualquer valor de número real: ");
+Console.WriteLine("+---------------------------------------------------+");
 a = float.Parse(Console.ReadLine());
 
 Console.WriteLine("+-------------------------------------------------------------------+");
