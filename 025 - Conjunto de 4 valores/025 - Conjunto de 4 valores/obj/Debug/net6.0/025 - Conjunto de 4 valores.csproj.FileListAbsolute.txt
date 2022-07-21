@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\bin\Debug\net6.0\025 - Conjunto de 4 valores.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\bin\Debug\net6.0\025 - Conjunto de 4 valores.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\bin\Debug\net6.0\025 - Conjunto de 4 valores.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\bin\Debug\net6.0\025 - Conjunto de 4 valores.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\bin\Debug\net6.0\025 - Conjunto de 4 valores.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\obj\Debug\net6.0\025 - Conjunto de 4 valores.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\obj\Debug\net6.0\025 - Conjunto de 4 valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\obj\Debug\net6.0\025 - Conjunto de 4 valores.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\obj\Debug\net6.0\025 - Conjunto de 4 valores.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\obj\Debug\net6.0\025 - Conjunto de 4 valores.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\obj\Debug\net6.0\025 - Conjunto de 4 valores.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\obj\Debug\net6.0\refint\025 - Conjunto de 4 valores.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\obj\Debug\net6.0\025 - Conjunto de 4 valores.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\obj\Debug\net6.0\025 - Conjunto de 4 valores.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\025 - Conjunto de 4 valores\025 - Conjunto de 4 valores\obj\Debug\net6.0\ref\025 - Conjunto de 4 valores.dll
