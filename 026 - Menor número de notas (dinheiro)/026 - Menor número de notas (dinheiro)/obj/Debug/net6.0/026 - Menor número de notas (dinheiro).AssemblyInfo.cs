@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("026 - Menor número de notas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("026 - Menor número de notas (dinheiro)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("026 - Menor número de notas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("026 - Menor número de notas")]
+[assembly: System.Reflection.AssemblyProductAttribute("026 - Menor número de notas (dinheiro)")]
+[assembly: System.Reflection.AssemblyTitleAttribute("026 - Menor número de notas (dinheiro)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

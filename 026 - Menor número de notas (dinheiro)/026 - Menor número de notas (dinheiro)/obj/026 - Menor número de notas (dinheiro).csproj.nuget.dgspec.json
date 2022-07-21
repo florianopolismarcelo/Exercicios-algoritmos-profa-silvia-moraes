@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\026 - Menor número de notas\\026 - Menor número de notas\\026 - Menor número de notas.csproj": {}
+    "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\026 - Menor número de notas (dinheiro)\\026 - Menor número de notas (dinheiro)\\026 - Menor número de notas (dinheiro).csproj": {}
   },
   "projects": {
-    "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\026 - Menor número de notas\\026 - Menor número de notas\\026 - Menor número de notas.csproj": {
+    "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\026 - Menor número de notas (dinheiro)\\026 - Menor número de notas (dinheiro)\\026 - Menor número de notas (dinheiro).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\026 - Menor número de notas\\026 - Menor número de notas\\026 - Menor número de notas.csproj",
-        "projectName": "026 - Menor número de notas",
-        "projectPath": "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\026 - Menor número de notas\\026 - Menor número de notas\\026 - Menor número de notas.csproj",
+        "projectUniqueName": "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\026 - Menor número de notas (dinheiro)\\026 - Menor número de notas (dinheiro)\\026 - Menor número de notas (dinheiro).csproj",
+        "projectName": "026 - Menor número de notas (dinheiro)",
+        "projectPath": "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\026 - Menor número de notas (dinheiro)\\026 - Menor número de notas (dinheiro)\\026 - Menor número de notas (dinheiro).csproj",
         "packagesPath": "C:\\Users\\flori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\026 - Menor número de notas\\026 - Menor número de notas\\obj\\",
+        "outputPath": "C:\\Users\\flori\\source\\repos\\Lista-de-exercicio-logica-profa-silvia-moraes\\026 - Menor número de notas (dinheiro)\\026 - Menor número de notas (dinheiro)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flori\\AppData\\Roaming\\NuGet\\NuGet.Config",
