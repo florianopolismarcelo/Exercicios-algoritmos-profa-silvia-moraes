@@ -6,9 +6,35 @@
 necessárias.
 *******************************************************************************************************/
 
-float valor;
+int valor, nota100, nota50, nota10, nota5, nota1, resto100, resto50, resto10, resto5, resto1;
 
-Console.WriteLine("+-----------------------------------------+");
-Console.WriteLine("Digite um valor em reais (Dinheiro) R$$$ ? ");
-Console.WriteLine("+-----------------------------------------+");
-valor = float.Parse(Console.ReadLine());
+Console.WriteLine("+--------------------------------+");
+Console.WriteLine("Digite um valor para saque R$$$ ? ");
+Console.WriteLine("+--------------------------------+");
+valor = int.Parse(Console.ReadLine());
+
+
+nota100 = (valor / 100);
+resto100 = (valor % 100);
+
+nota50 = (resto100 / 50);
+resto50 = (resto100 % 50);
+
+nota10 = (resto50 / 10);
+resto10 = (resto50 % 10);
+
+nota5 = (resto10 / 5);
+resto5 = (resto10 % 5);
+
+nota1 = (resto10 / 1);
+resto1 = (resto10 % 1);
+
+Console.WriteLine("+-----------------------------+");
+Console.WriteLine("- Cédulas de R$ 100 reais: " + nota100);
+Console.WriteLine("+-----------------------------+");
+Console.WriteLine("- Cédulas de R$ 50 reais: " + nota50);
+Console.WriteLine("+-----------------------------+");
+Console.WriteLine("- Cédulas de R$ 10 reais: " + nota10);
+Console.WriteLine("+-----------------------------+");
+Console.WriteLine("- Cédulas de R$ 1 reais: " + nota1);
+Console.WriteLine("+-----------------------------+");
