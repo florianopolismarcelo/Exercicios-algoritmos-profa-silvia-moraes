@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\bin\Debug\net6.0\027 - Percentagem do IPI.exe
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\bin\Debug\net6.0\027 - Percentagem do IPI.deps.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\bin\Debug\net6.0\027 - Percentagem do IPI.runtimeconfig.json
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\bin\Debug\net6.0\027 - Percentagem do IPI.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\bin\Debug\net6.0\027 - Percentagem do IPI.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\obj\Debug\net6.0\027 - Percentagem do IPI.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\obj\Debug\net6.0\027 - Percentagem do IPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\obj\Debug\net6.0\027 - Percentagem do IPI.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\obj\Debug\net6.0\027 - Percentagem do IPI.AssemblyInfo.cs
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\obj\Debug\net6.0\027 - Percentagem do IPI.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\obj\Debug\net6.0\027 - Percentagem do IPI.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\obj\Debug\net6.0\refint\027 - Percentagem do IPI.dll
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\obj\Debug\net6.0\027 - Percentagem do IPI.pdb
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\obj\Debug\net6.0\027 - Percentagem do IPI.genruntimeconfig.cache
+C:\Users\flori\source\repos\Lista-de-exercicio-logica-profa-silvia-moraes\027 - Percentagem do IPI\027 - Percentagem do IPI\obj\Debug\net6.0\ref\027 - Percentagem do IPI.dll
