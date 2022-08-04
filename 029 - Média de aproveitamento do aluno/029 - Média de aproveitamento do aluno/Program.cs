@@ -52,19 +52,19 @@ mediaExercicios = (nota1 + nota2 + nota3) / 3;
 mediaAproveitamento = (nota1 + (nota2 * 2) + (nota3 * 3) + mediaExercicios) / 7;
 
 
-if (mediaExercicios >= 9)
+if (mediaAproveitamento >= 9)
 {
     Console.WriteLine("Código do Aluno:[" + codigo + "] Nota de aproveitamento [" + mediaAproveitamento + "] Conceito [A] ALUNO APROVADO!");
 }
-if (mediaExercicios >= 7.5 && mediaExercicios < 9)
+if (mediaAproveitamento >= 7.5 && mediaAproveitamento < 9)
 {
     Console.WriteLine("Código do Aluno:[" + codigo + "] Nota de aproveitamento [" + mediaAproveitamento + "] Conceito [B] ALUNO APROVADO!");
 }
-if (mediaExercicios > 6 && mediaExercicios < 7.5)
+if (mediaAproveitamento > 6 && mediaAproveitamento < 7.5)
 {
     Console.WriteLine("Código do Aluno:[" + codigo + "] Nota de aproveitamento [" + mediaAproveitamento + "] Conceito [C] ALUNO APROVADO!");
 }
-if (mediaExercicios >= 4.0 && mediaExercicios < 6)
+if (mediaAproveitamento >= 4.0 && mediaAproveitamento < 6)
 {
     Console.WriteLine("Código do Aluno:[" + codigo + "] Nota de aproveitamento [" + mediaAproveitamento + "] Conceito [D] ALUNO APROVADO!");
 }
