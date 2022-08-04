@@ -50,3 +50,8 @@ nota3 = float.Parse(Console.ReadLine());
 mediaExercicios = (nota1 + nota2 + nota3) / 3;
 
 mediaAproveitamento = (nota1 + (nota2 * 2) + (nota3 * 3) + mediaExercicios) / 7;
+
+if (mediaExercicios >= 9)
+{
+    Console.WriteLine("Código do Aluno:[" + codigo + "] Nota de aproveitamento [" + mediaAproveitamento + "] Conceito [A]");
+}
