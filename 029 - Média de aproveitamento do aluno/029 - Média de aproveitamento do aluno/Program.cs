@@ -55,7 +55,7 @@ if (mediaExercicios >= 9)
 {
     Console.WriteLine("Código do Aluno:[" + codigo + "] Nota de aproveitamento [" + mediaAproveitamento + "] Conceito [A] ALUNO APROVADO!");
 }
-if ()
+if ( )
 {
 
 }
