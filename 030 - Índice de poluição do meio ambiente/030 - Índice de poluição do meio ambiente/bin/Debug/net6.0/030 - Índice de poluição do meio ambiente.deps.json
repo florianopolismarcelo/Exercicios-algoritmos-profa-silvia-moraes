@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "030 - Índice de poluição do meio ambiente/1.0.0": {
+        "runtime": {
+          "030 - Índice de poluição do meio ambiente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "030 - Índice de poluição do meio ambiente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
