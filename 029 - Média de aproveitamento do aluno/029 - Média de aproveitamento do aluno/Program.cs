@@ -66,10 +66,10 @@ if (mediaAproveitamento > 6 && mediaAproveitamento < 7.5)
 }
 if (mediaAproveitamento >= 4.0 && mediaAproveitamento < 6)
 {
-    Console.WriteLine("Código do Aluno:[" + codigo + "] Nota de aproveitamento [" + mediaAproveitamento + "] Conceito [D] ALUNO APROVADO!");
+    Console.WriteLine("Código do Aluno:[" + codigo + "] Nota de aproveitamento [" + mediaAproveitamento + "] Conceito [D] ALUNO REPROVADO!");
 }
-else
+if (mediaAproveitamento < 4.0 )
 {
-    Console.WriteLine("Código do Aluno:[" + codigo + "] Nota de aproveitamento [" + mediaAproveitamento + "] Conceito [E] ALUNO APROVADO!");
+    Console.WriteLine("Código do Aluno:[" + codigo + "] Nota de aproveitamento [" + mediaAproveitamento + "] Conceito [E] ALUNO REPROVADO!");
 }
 
