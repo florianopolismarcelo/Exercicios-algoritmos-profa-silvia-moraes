@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("031 - Sucessivos valores de E")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("031 - Sucessivos valores de Euler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("031 - Sucessivos valores de E")]
-[assembly: System.Reflection.AssemblyTitleAttribute("031 - Sucessivos valores de E")]
+[assembly: System.Reflection.AssemblyProductAttribute("031 - Sucessivos valores de Euler")]
+[assembly: System.Reflection.AssemblyTitleAttribute("031 - Sucessivos valores de Euler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

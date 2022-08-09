@@ -22,7 +22,7 @@ double e;
 
 e = 1.0 + 1.0 + (1.0 / 2.0); //três termos
 Console.WriteLine("+--------------------------------------+");
-Console.WriteLine("e com tres termos:" +e);
+Console.WriteLine("e com tres termos:" + e);
 Console.WriteLine("+--------------------------------------+");
 
 e = e + (1.0 / 6.0); //quatro termos
