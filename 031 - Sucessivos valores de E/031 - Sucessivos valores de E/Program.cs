@@ -34,10 +34,3 @@ e = e + (1.0 / 24.0); //cinco termos
 Console.WriteLine("e com cinco termos:" + e);
 Console.WriteLine("+--------------------------------------+");
 
-e = e + (1.0 / 120.0); //seis termos
-Console.WriteLine("e com seis termos:" + e);
-Console.WriteLine("+--------------------------------------+");
-
-e = e + (1.0 / 720.0); //sete termos
-Console.WriteLine("e com sete termos:" + e);
-Console.WriteLine("+--------------------------------------+");
