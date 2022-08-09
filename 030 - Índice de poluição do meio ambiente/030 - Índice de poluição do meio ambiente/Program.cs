@@ -18,21 +18,25 @@ Console.WriteLine("+----------------------------------------------------+");
 
 indice = float.Parse(Console.ReadLine());
 
-if (indice > 0.5 && indice <= 0.25)
+if (indice > 5 && indice <= 25)
 {
     Console.WriteLine("Índice de poluição aceitável");
 }
-else if (indice > 0.25 && indice < 0.49) 
+else if (indice > 25 && indice < 49) 
 {
     Console.WriteLine("Grupo 1 Favor suspender as atividades");
 }
-else if (indice >= 0.49 && indice < 0.50)
+else if (indice > 49 && indice < 50)
 {
     Console.WriteLine("Grupo 1 e Gupo 2 Favor suspender as atividades");
 }
-else if (indice >= 0.50)
+else if (indice > 50)
 {
     Console.WriteLine("Grupo 1 Gupo 2 e Grupo 3 Favor suspender todas as atividades");
+}
+else
+{
+    Console.WriteLine("Digite um índice igual ou maior que 5");
 }
 
 
