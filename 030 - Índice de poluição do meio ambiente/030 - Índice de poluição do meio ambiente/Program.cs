@@ -10,7 +10,6 @@ Escrever um algoritmo que lê o índice de poluição medido e emite a notifica�
 
 
 float indice;
-String grupo1, grupo2, grupo3;
 
 Console.WriteLine("+----------------------------------------------------+");
 Console.WriteLine("Digite o índice de poluição medido: 0.3 - 0.4 ou 0.5  ");
@@ -19,17 +18,23 @@ Console.WriteLine("O índice de poluição aceitável varia de 0.05 até 0.25.")
 Console.WriteLine("+----------------------------------------------------+");
 indice = float.Parse(Console.ReadLine());
 
-if (indice == 0.3 )
+
+
+if (indice > 0.05 && indice <= 0.25)
+{
+    Console.WriteLine("Índice de poluição aceitável");
+}
+else if (indice >= 0.3 && indice < 0.4) 
 {
     Console.WriteLine("Grupo 1 Favor suspender as atividades");
 }
-if (indice > 0.3 && indice <= 0.4)
+else if (indice >= 0.4&& indice < 0.5)
 {
     Console.WriteLine("Grupo 1 e Gupo 2 Favor suspender as atividades");
 }
-if (indice == 5.0)
+else if (indice == 5.0)
 {
-    Console.WriteLine("Grupo 1 - Gupo 2 e Grupo 3 Favor suspender todas as atividades");
+    Console.WriteLine("Grupo 1 Gupo 2 e Grupo 3 Favor suspender todas as atividades");
 }
 
 
